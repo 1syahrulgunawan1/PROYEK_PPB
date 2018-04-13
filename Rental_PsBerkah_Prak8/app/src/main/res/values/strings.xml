@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RENTAL PS BERKAH</string>
+    <string-array name="jenisps">
+        <item>Pilih :</item>
+        <item>PS 1</item>
+        <item>PS 2</item>
+        <item>PS 3</item>
+        <item>PS 4</item>
+    </string-array>
+</resources>
