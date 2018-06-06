@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>SATURN V</item>
+        <item>N-1</item>
+        <item>ARES-1</item>
+        <item>DELTA IV</item>
+        <item>ATLAS V</item>
+        <item>ARIANE 5</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Cape Canaveral, di Pulau Merritt, Florida
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Markas Angkatan Udara Vandenberg, Kalifornia</item>
+        <item>Kompleks Peluncuran Kodiak, Kodiak Island Borough, Alaska</item>
+        <item>Pelabuhan Angkasa Oklahoma, Burns Flat, Oklahoma</item>
+        <item>Pelabuhan Angkasa Southwest Regional, Upham, New Mexico</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Saturn V merupakan roket terbesar di dunia dan paling bertenaga yang pernah
+            dibangun dalam sejarah umat manusia. Ini adalah roket yang memungkinkan bagi manusia
+            untuk mendarat di Bulan. Saturn V tingginya hampir 363 kaki setinggi gedung 40 lantai
+        </item>
+        <item>N1 adalah roket yang cukup bertenaga dan roket terbesar yang dikembangkan oleh soviet untuk mengirim
+            orang ke Bulan. Namun semua roket tersebut telah hancur selama
+            penerbangan uji coba mereka. N1 panjangnya sekitar 344,5 meter.
+        </item>
+        <item>Ares-1 adalah roket lain yang dirancang AS yang saat ini sedang dalam pembangunan. Setelah
+            pensiun dari shuttle, Ares akan menjadi transportasi
+            manusia untuk pergi ruang angkasa dan bahkan ke Bulan lagi. Ares-1 memiliki panjang 310 kaki
+            dan didukung oleh satu mesin roket padat selama lepas landas
+        </item>
+        <item>Delta IV adalah roket yang dirancang AS dengan tujuan untuk penggunaan militer dan komersial. Roket ini memiliki ketinggian 206 meter
+        </item>
+        <item>Atlas V adalah roket buatan Amerika Serikat yang dirancang untuk membawa beban berat untuk diangkut ke orbit Bumi. Roket ini memiliki ketinggian 195 kaki dan memiliki total angkat dari massa 333.298 kg
+        </item>
+        <item>Uji terbang pertama Ariane 5 yang gagal pada bulan Juni 1996, dengan perusakan diri selama 37 detik setelah diluncurkan
+            karena kerusakan pada software kontrol, yang tak diragukan lagi salah satu bug komputer paling mahal dalam sejarah. Roket ini memiliki ketinggian 193 kaki
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+</resources>

@@ -8,7 +8,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-public class WellcomeActivity extends AppCompatActivity {
+public class Wellcome extends AppCompatActivity {
     LinearLayout l1,l2;
     Animation uptodown,downtoup;
     @Override
@@ -27,7 +27,7 @@ public class WellcomeActivity extends AppCompatActivity {
             public void run() {
                 try {
                     sleep(5000);
-                    Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                    Intent intent = new Intent(getApplicationContext(),Login.class);
                     startActivity(intent);
                     finish();
                 } catch (InterruptedException e) {

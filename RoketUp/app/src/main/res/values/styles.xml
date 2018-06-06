@@ -1,14 +1,33 @@
 <resources>
-
     <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#1a237e</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#000051</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">#534bae</item>
+        <!-- Blue -->
+    </style>
+
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">#1a237e</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#000051</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">#534bae</item>
+        <!-- Blue -->
     </style>
 
-    <style name="AppThemeNo" parent="Theme.AppCompat.NoActionBar">
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="AppThemeNo" parent="Theme.AppCompat.NoActionBar" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
